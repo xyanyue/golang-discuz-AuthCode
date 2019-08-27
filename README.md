@@ -1,4 +1,4 @@
 # golang-discuz-AuthCode
 golang版本discuz AuthCode
 
-## 加密验证没有做。
+## 加密测试没有做。
